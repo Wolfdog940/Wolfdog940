@@ -9,7 +9,25 @@ a small town near to Vigo
 
 
 - 🌱 learning in 4geeksacademy
+- 🛠️ Fullstack developer
+- 🔥 Chasing an opportunity to show my skills
+
+
+### Skills
+- 🎯 Hard-Working
+- 👌 I have great capacity for the multidisciplinary teamwork
+
+### Languages 📚
+
+<code><img height="30" src="https://img.icons8.com/color/344/javascript--v1.png"></code>
+<code><img height="30" src="https://img.icons8.com/officel/344/php-logo.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/html-5--v1.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/bootstrap.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/css3.png"></code>
+
+
 
 ## How to reach me 📫 
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logologo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-urrutia-2b72911a0/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oscarurrutia940@gmail.com)](mailto:oscarurrutia940@gmail.com)
+
