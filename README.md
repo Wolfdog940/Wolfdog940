@@ -25,7 +25,7 @@ a small town near to Vigo
 <code><img height="30" src="https://img.icons8.com/color/344/bootstrap.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/css3.png"></code>
 <code><img height="30" src="https://img.icons8.com/office/344/react.png"></code>
-<code><img height="30" src="[https://iconos8.es/icon/hZvpN3zV45Yf/python](https://iconos8.es/icon/13441/python)"></code>
+<code><img height="30" src="https://img.icons8.com/stickers/2x/python.png"></code>
 
 
 
