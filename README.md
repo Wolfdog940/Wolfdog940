@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Oscar and I'm studying to be a Fullstack developer</br>I'm  from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Galicia, Spain</b>, currently living in Ponteareas, 
+<p>Welcome to my page! </br> I'm Oscar and I'm a Fullstack developer</br>I'm  from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Galicia, Spain</b>, currently living in Ponteareas, 
 a small town near to Vigo
 </b> </p>
 <p>
