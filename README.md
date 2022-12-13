@@ -6,7 +6,7 @@ a small town near to Vigo
 <p>
 
 
-<code><img height="30" src="[https://img.icons8.com/color/344/javascript--v1.png](https://www.codewars.com/users/Wolfdog940/badges/large)"></code>
+<img src="[https://img.icons8.com/color/344/javascript--v1.png](https://www.codewars.com/users/Wolfdog940/badges/large)">
 
 - 🌱 learning in 4geeksacademy
 - 🛠️ Fullstack developer
