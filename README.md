@@ -15,7 +15,7 @@ a small town near to Vigo
 
 
 ### Skills
-  <code><img src="https://www.codewars.com/users/Wolfdog940/badges/large"></code>
+<img src="https://www.codewars.com/users/Wolfdog940/badges/large">
 - 🎯 Hard-Working
 - 👌 I have great capacity for the multidisciplinary teamwork
 
