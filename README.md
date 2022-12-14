@@ -11,14 +11,16 @@ a small town near to Vigo
 - 🌱 learning in 4geeksacademy
 - 🛠️ Fullstack developer
 - 🔥 Chasing an opportunity to show my skills
+  
 
 
 ### Skills
+  <code><img src="https://www.codewars.com/users/Wolfdog940/badges/large"></code>
 - 🎯 Hard-Working
 - 👌 I have great capacity for the multidisciplinary teamwork
 
 ### Languages 📚
-  <code><img src="https://www.codewars.com/users/Wolfdog940/badges/large"></code>
+  
 <code><img height="30" src="https://img.icons8.com/color/344/javascript--v1.png"></code>
 <code><img height="30" src="https://img.icons8.com/officel/344/php-logo.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/html-5--v1.png"></code>
