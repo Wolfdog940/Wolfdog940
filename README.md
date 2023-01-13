@@ -8,7 +8,7 @@ a small town near to Vigo
 
 
 
-- 🌱 learning in 4geeksacademy
+- 🌱 improving my skills day by day
 - 🛠️ Fullstack developer
 - 🔥 Chasing an opportunity to show my skills
   
