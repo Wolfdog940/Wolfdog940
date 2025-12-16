@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>  
   Hi, I'm Oscar
 </h1>
 
@@ -10,13 +10,17 @@
 ---
 
 ### 👋 About me
-> Fullstack developer with a strong interest in building well-structured and reliable applications.  
-> Experienced across the stack, from intuitive user interfaces to backend logic, APIs, and databases.  
-> I value clean code, thoughtful architecture, and continuous improvement through hands-on development.
+
+> **Fullstack developer** focused on building **well-structured and reliable applications**.  
+>  
+> Comfortable working across the stack — from **intuitive user interfaces** to **backend logic, APIs, and databases**.  
+>  
+> I value **clean code**, **thoughtful architecture**, and **continuous improvement** through **hands-on development**.
 
 ---
 
 ### 🧠 Skills & Practice
+
 <p align="center">
   <img src="https://www.codewars.com/users/Wolfdog940/badges/large"/>
 </p>
@@ -24,6 +28,7 @@
 ---
 
 ### ⚙️ Technologies
+
 <p align="center">
   <code><img height="30" src="https://img.icons8.com/color/48/javascript--v1.png"/></code>
   <code><img height="30" src="https://img.icons8.com/officel/48/php-logo.png"/></code>
@@ -41,6 +46,7 @@
 ---
 
 ### 📫 Contact
+
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-urrutia-2b72911a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
